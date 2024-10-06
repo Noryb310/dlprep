@@ -1,13 +1,12 @@
 // src/App.js
 import React from 'react';
+import Navbar from './Components/Navbar';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <h1>Welcome, Negro's React App!</h1>
-        <p>Edit this file to make it your own!</p>
-      </header>
+      <Navbar />
+      <h2>Welcome to DL Prep Project!</h2>
     </div>
   );
 }
