@@ -1,4 +1,4 @@
-// src/Components/MainScreen.js
+
 import React from 'react';
 import styled from 'styled-components';
 import { PiTruckTrailerFill } from 'react-icons/pi';
